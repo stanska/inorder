@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_add"
+        android:title="@string/menu_add_goal"/>
+    <item android:id="@+id/delete" android:title="Delete Goal">
+        <menu>
+            <item android:id="@+id/containeritem" android:menuCategory="container" android:title="Container"/>
+            <item android:id="@+id/item1" android:menuCategory="secondary" android:title="Just Item"/>
+        </menu>
+    </item>
+</menu>

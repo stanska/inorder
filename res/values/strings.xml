@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">InOrder</string>
+    <string name="menu_add_goal">Add Goal</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_goal_board">Goals</string>
+    <string name="add_goal_text">name</string>
+    <string name="add_goal_name_hint">S.M.A.R.T - Specific, Measurable, Attainable, Relevant and Timed in order to be phrased in the most effective way</string>
+    <string name="button_add">Add</string>
+    <string name="title_add_goal_activity">Add Goal</string>
+
+</resources>

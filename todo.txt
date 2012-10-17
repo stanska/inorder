@@ -1,0 +1,28 @@
+1)enter goal 6.09 - add name activity + 
+1.1)get name from field +
+2)order the priorities  20.10  http://www.planetofsuccess.com/effective-time-management/ Prioritization
+3)adjust improvement period 20.10
+
+4)assign color for any goal 25.10
+5)add tasks to the goals [task name, start end, goal] 10.11
+5.1)25.11
+board
+goal|no started|in progress|done|
+....
+
+6)10.12
+calendar
+open a calendar view marking the days with the specific color when there is a task related for
+this day
+if more than one color must be in a day -> split colors horizontally
+
+7)to do list for the day with alarm on specific time to write - 25.12 
+
+8)Add time spent tracking to tasks and to do list in order to know what time was spent for a certain task
+1.1
+
+9)add example goals and hints for goal - is it SMART http://www.planetofsuccess.com/personalgoalsetting/
+25.01
+
+10) Add an example to do list and a template for creating a to do list for certain days and hours
+10.2

@@ -1,0 +1,40 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.inorder.activity"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="15" />
+
+    <!-- <menu xmlns:android="http://schemas.android.com/apk/res/android" >
+        <item
+            android:id="@+id/menu_save"
+            android:icon="@drawable/ic_menu_save"
+            android:showAsAction="ifRoom|withText"
+            android:title="@string/menu_save"/>
+    </menu>-->
+
+    <application
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".GoalBoard"
+            android:label="@string/title_activity_goal_board" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".AddGoalActivity"
+            android:label="@string/title_add_goal_activity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.inorder.activity.GoalBoard" />
+        </activity>
+    </application>
+
+</manifest>
